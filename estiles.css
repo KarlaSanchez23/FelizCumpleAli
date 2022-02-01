@@ -1,0 +1,16 @@
+*{
+    background-image: url("fondos.jpg");
+    background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+}
+
+video{
+    margin-left: 200px;
+    margin-top: 30px;
+}
+
+h2{
+    text-align: center;
+    color: rgb(109, 9, 43);
+}
