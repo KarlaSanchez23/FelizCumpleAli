@@ -1,0 +1,15 @@
+*{
+    background-image: url("fondi.jpg");
+    background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+}
+
+h2{
+    text-align: center;
+    color: rgb(125, 196, 10);
+}
+
+img{
+    margin-left: 100px;
+}
