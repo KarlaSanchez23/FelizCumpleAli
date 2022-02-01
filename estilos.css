@@ -1,0 +1,38 @@
+/*****************PARTE DEL INICIO************************/
+
+*{
+    background-color: rgb(184, 129, 235);
+}
+
+h2{
+    text-align: center;
+    color: rgb(148, 50, 5);
+}
+
+.rompe{
+    margin-top: 20px;
+    margin-left: 350px;
+    width: 250px;
+    height: 220px;
+}
+
+.vide{
+    margin-top: -300%;
+    margin-left: 800px;
+    width: 250px;
+    height: 250px;
+}
+
+.aniver{
+    margin-top: 20px;
+    margin-left: 350px;
+    width: 250px;
+    height: 270px;
+}
+
+.meme{
+    
+    margin-left: 180px;
+    width: 250px;
+    height: 270px;
+}
