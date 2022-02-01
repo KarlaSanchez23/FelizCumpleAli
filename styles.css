@@ -1,0 +1,17 @@
+*{
+    background-color: rgb(167, 193, 233);
+}
+
+h2{
+    text-align: center;
+    color: rgb(148, 50, 5);
+}
+
+#entorno{
+    display: block;
+    margin: 0 auto;
+}
+
+#fondo{
+    opacity: 0.3;
+}
