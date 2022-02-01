@@ -1,0 +1,16 @@
+*{
+    background-image: url("fondo.webp");
+    background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center center;
+}
+
+video{
+    margin-left: 520px;
+    margin-top: 13px;
+}
+
+h2{
+    text-align: center;
+    color: rgb(174, 10, 196);
+}
